@@ -1,6 +1,6 @@
 # special-append
 
-[![Build Status](https://api.travis-ci.com/arshadkazmi42/special-append.svg?branch=master)](https://api.travis-ci.com/arshadkazmi42/special-append)
+[![Build Status](https://travis-ci.com/arshadkazmi42/special-append.svg?branch=master)](https://travis-ci.com/arshadkazmi42/special-append)
 
 Append special character after every x characters
 
