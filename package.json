@@ -1,0 +1,35 @@
+{
+  "name": "special-append",
+  "version": "1.0.0",
+  "description": "Append special character after every x characters in a string",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "special-append"
+  },
+  "keywords": [
+    "spcial",
+    "character",
+    "auto",
+    "append"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT"
+}
