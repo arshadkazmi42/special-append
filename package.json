@@ -1,6 +1,6 @@
 {
   "name": "special-append",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Append special character after every x characters in a string",
   "main": "index.js",
   "directories": {
