@@ -1,6 +1,12 @@
 # special-append
 
-[![Build Status](https://travis-ci.com/arshadkazmi42/special-append.svg?branch=master)](https://travis-ci.com/arshadkazmi42/special-append)
+[![Build](https://github.com/arshadkazmi42/special-append/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/special-append/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/special-append.svg)](https://www.npmjs.com/package/special-append)
+[![NPM Downloads](https://img.shields.io/npm/dt/special-append.svg)](https://www.npmjs.com/package/special-append)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/special-append.svg)](https://github.com/arshadkazmi42/special-append)
+[![LICENSE](https://img.shields.io/npm/l/special-append.svg)](https://github.com/arshadkazmi42/special-append/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/special-append.svg)](https://github.com/arshadkazmi42/special-append/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/special-append.svg)](https://github.com/arshadkazmi42/special-append/commits/master)
 
 Append special character after every x characters
 
